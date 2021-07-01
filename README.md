@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My lastname has changed, and so has my GitHub nickname.
+
+My GitHub profile moved here: https://github.com/roman-tikonov/
+
 <!--
 **roman-tikhonov/roman-tikhonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
